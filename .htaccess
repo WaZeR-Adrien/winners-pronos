@@ -1,0 +1,5 @@
+Options All -Indexes
+Options +FollowSymlinks
+RewriteEngine On
+RewriteRule	^deconnexion/?$	pages/deconnexion.php	[L]
+RewriteRule	^pronostics/?$	pages/pronostics.php	[L]
